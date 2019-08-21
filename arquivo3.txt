@@ -1,3 +1,4 @@
+giovanna
 
 
 
@@ -6,3 +7,6 @@
 
 
 Uma nova linha.
+
+git config --global user.email "giovanna.csilva@bandtec.com.br"
+git config --global user.name "giovannahortolabandtec"
